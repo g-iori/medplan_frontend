@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="DarkBlue">#2699FB</color>
+    <color name="LightBlue">#BCE0FD</color>
+    <color name="Gray">#B4B4B4</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Red">#BB5050</color>
+    <color name="LightGray">#878787</color>
+    <color name="LightBlack">#5A5A5A</color>
+    <color name="PillBlue">#6895B4</color>
+    <color name="PillLightBlue">#2191DE</color>
+    <color name="PillLightBlue2">#86CDE4</color>
+</resources>
